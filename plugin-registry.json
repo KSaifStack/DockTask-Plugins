@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "plugins": [
+    {
+      "name": "Example Plugin",
+      "description": "A sample community plugin that adds a simple message.",
+      "version": "1.0.0",
+      "author": "Community",
+      "type": "widget",
+      "url": "https://github.com/KSaifStack/DockTask",
+      "downloadUrl": "https://github.com/KSaifStack/DockTask"
+    }
+  ]
+}
